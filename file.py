@@ -1,4 +1,4 @@
 import requests
 
-def function2():
-    print("holaaa")
+def function():
+    print("hola")
